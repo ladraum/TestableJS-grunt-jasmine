@@ -1,4 +1,4 @@
-# TestableJS
+# TestableJS with Jasmine + Grunt
 Sample JS Project with Jasmine + Grunt
 
 Just a sample project with Jasmine + Grunt.
