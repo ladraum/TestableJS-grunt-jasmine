@@ -1,7 +1,7 @@
-# TestableJS with Jasmine + Grunt
-Sample JS Project with Jasmine + Grunt
+# TestableJS with Grunt + Jasmine
+Sample JS Project with Grunt + Jasmine
 
-Just a sample project with Jasmine + Grunt.
+Just a sample project with Grunt + Jasmine.
 Made as a base project to build Katas in Javascript
 
 Just clone this repo and: `npm install`
